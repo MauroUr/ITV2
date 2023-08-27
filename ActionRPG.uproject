@@ -167,6 +167,10 @@
 		{
 			"Name": "DMXFixtures",
 			"Enabled": true
+		},
+		{
+			"Name": "ControlRig",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
