@@ -163,6 +163,10 @@
 		{
 			"Name": "ChaosEditor",
 			"Enabled": false
+		},
+		{
+			"Name": "DMXFixtures",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
