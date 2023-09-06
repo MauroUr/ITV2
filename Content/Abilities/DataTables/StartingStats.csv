@@ -4,7 +4,7 @@ DefaultMaxMana,0,0,0,0,0,0,0,0,0,0
 DefaultAttackPower,1,1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9
 DefaultDefensePower,1,1,1,1,1,1,1,1,1,1
 DefaultMoveSpeed,300,300,300,300,300,300,400,400,400,400
-PlayerMaxHealth,1000,1200,1400,1600,1800,2000,2200,2400,2600,2800
+PlayerMaxHealth,5000,5000,5000,5000,5000,5000,5000,5000,5000,5000
 PlayerMaxMana,100,100,100,100,100,100,100,100,100,100
 PlayerAttackPower,1,1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9
 PlayerDefensePower,1,1,1,1,1,1,1,1,1,1
